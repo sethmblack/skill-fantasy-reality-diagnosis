@@ -3,8 +3,9 @@ name: fantasy-reality-diagnosis
 description: Identify where fantasy (ego-driven distortion) is masquerading as reality in perception of a situation, and guide toward clearer seeing.
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.3984
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - fantasy-reality-diagnosis
 - storytelling
